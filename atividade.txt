@@ -1,0 +1,5 @@
+Crie uma página HTML com 3 parágrafos utilizando as tags <p> e todas
+as tags que vimos até agora como as H1...H6.
+
+Instale um leitor de tela e demonstre como ele irá funcionar lendo a página criada.
+Faça alterações na página para verificar o comportamento do leitor.
